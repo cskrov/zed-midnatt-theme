@@ -1,0 +1,7 @@
+id = "midnatt"
+name = "Midnatt"
+version = "0.1.0"
+schema_version = 1
+authors = ["Christian Skrøvseth <3177301+cskrov@users.noreply.github.com>"]
+description = "A dark theme with a pure black background."
+repository = "https://github.com/cskrov/zed-midnatt-theme"

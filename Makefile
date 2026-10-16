@@ -1,2 +1,2 @@
 update:
-	cp ./Midnatt.json ~/.config/zed/themes/Midnatt.json
+	cp ./themes/midnatt.json ~/.config/zed/themes/Midnatt.json
